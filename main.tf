@@ -1,4 +1,4 @@
-provider "aws" {
+provider "GCP" {
   region = "us-east-1"
 }
 
